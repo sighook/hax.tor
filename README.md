@@ -2,7 +2,7 @@
 
 https://hax.tor.hu/
 
-Here I've collected my solutions to the most interesting challenges from hax.tor.
+Here I've collected my solutions to the most interesting hacking challenges from hax.tor.hu.
 
 <img src="https://github.com/chinarulezzz/hax.tor/raw/master/prize.jpg" alt="prize.jpg">
 
